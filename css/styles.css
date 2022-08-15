@@ -48,6 +48,10 @@ a:hover {
   color: #EAF6F6;
 }
 
+.profile-img{
+  border-radius: 50%;
+}
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
